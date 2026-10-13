@@ -208,6 +208,7 @@ Predictions may be inaccurate or biased and must not be used as a substitute for
 * Improved input validation and automated testing
 * Secure deployment with appropriate privacy protections
 
+## AI tool used ## OpenAI ChatGPT,Claude
 ## 👩‍💻 Author and Project
 
 **GitHub Repository:**
